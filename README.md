@@ -5,7 +5,7 @@ This project is a **Phishing URL Detection web application** developed using **P
 It helps identify suspicious or phishing URLs using basic URL analysis techniques.
 
 Live App Link
-👉 https://YOUR-APP-NAME.onrender.com
+👉 
 
  Features
 - Detects phishing and suspicious URLs
